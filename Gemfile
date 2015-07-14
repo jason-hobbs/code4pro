@@ -12,6 +12,7 @@ gem 'sdoc', group: :doc
 gem 'materialize-sass'
 gem 'devise'
 gem 'toastr-rails'
+gem 'mandrill-api', require: 'mandrill'
 group :development, :test do
   gem 'byebug'
   gem 'web-console'
