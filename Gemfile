@@ -11,6 +11,7 @@ gem 'jbuilder'
 gem 'sdoc', group: :doc
 gem 'materialize-sass'
 gem 'devise'
+gem 'toastr-rails'
 group :development, :test do
   gem 'byebug'
   gem 'web-console'
