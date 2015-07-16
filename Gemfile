@@ -17,6 +17,7 @@ gem 'omniauth'
 gem 'omniauth-google-oauth2'
 gem 'dotenv-rails'
 gem 'activeadmin', github: 'activeadmin'
+gem 'active_skin'
 group :development, :test do
   gem 'byebug'
   gem 'web-console'
