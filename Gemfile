@@ -16,6 +16,7 @@ gem 'mandrill-api', require: 'mandrill'
 gem 'omniauth'
 gem 'omniauth-google-oauth2'
 gem 'dotenv-rails'
+gem 'activeadmin', github: 'activeadmin'
 group :development, :test do
   gem 'byebug'
   gem 'web-console'
