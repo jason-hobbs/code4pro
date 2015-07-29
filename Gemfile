@@ -21,6 +21,7 @@ gem 'active_skin'
 gem 'paperclip'
 gem 'redcarpet', :git => 'https://github.com/vmg/redcarpet.git'
 gem 'coderay'
+gem 'friendly_id'
 group :development, :test do
   gem 'byebug'
   gem 'web-console'
