@@ -23,6 +23,7 @@ gem 'paperclip'
 gem 'redcarpet', :git => 'https://github.com/vmg/redcarpet.git'
 gem 'coderay'
 gem 'friendly_id'
+gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 group :development, :test do
   gem 'byebug'
   gem 'web-console'
